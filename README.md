@@ -2,7 +2,7 @@
 This project was created under the graduation-project which researched how a game can be measured. The content of this git is therefore published to showcase our work.
 
 ## Game
-Our game is avaliable under [itch.io](http://itch.io) as [Exterminato: Mexico](http://itch.io/crossbowstudios/exterminator-mexico)
+Our game is avaliable under [itch.io](http://itch.io) as [Exterminato: Mexico](http://crossbow-studios.itch.io/exterminator-mexico)
 
 ## Code
 All code written is put together in [this](ALL.cs) file
