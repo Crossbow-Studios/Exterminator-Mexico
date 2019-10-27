@@ -5,7 +5,7 @@ This project was created under the graduation-project which researched how a gam
 Our game is avaliable under [itch.io](http://itch.io) as [Exterminato: Mexico](http://itch.io/crossbowstudios/exterminator-mexico)
 
 ## Code
-All code written is put together in [this](All.cs) file
+All code written is put together in [this](ALL.cs) file
 
 ## Built With
 
