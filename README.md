@@ -4,6 +4,8 @@ This project was created under the graduation-project which researched the creat
 ## Game
 Our game is avaliable under [itch.io](http://itch.io) as [Exterminato: Mexico](http://crossbow-studios.itch.io/exterminator-mexico)
 
+As an alternative, our game is located in [this](/27.10.2019/) folder. (To play it, the whole folder needs to be downloaded)
+
 ## Code
 All code written is put together in [this](ALL.cs) file
 
